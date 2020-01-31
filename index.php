@@ -120,71 +120,86 @@
             <img class="rounded-circle" src="image/1.png" alt="Generic placeholder image" width="140" height="140">
             <h2>Aam Amaludin</h2>
             <p>NIM</p>
-            <p>(71150009)</p><!-- 
+            <p>(201522007)</p><!-- 
             <p>Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod. Nullam id dolor id nibh ultricies vehicula ut id elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Praesent commodo cursus magna.</p> -->
           </div><!-- /.col-lg-4 -->
           <div class="col-lg-4">
             <img class="rounded-circle" src="image/2.png" alt="Generic placeholder image" width="140" height="140">
             <h2>Abdi Juli Saputra</h2>
             <p>NIM</p>
-            <p>(71150055)</p><!-- 
+            <p>(201522017)</p><!-- 
             <p>Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cras mattis consectetur purus sit amet fermentum. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh.</p> -->
           </div><!-- /.col-lg-4 -->
           <div class="col-lg-4">
             <img class="rounded-circle" src="image/3.png" alt="Generic placeholder image" width="140" height="140">
             <h2>Adam Ismail</h2>
             <p>NIM</p>
-            <p>(71150088)</p><!-- 
+            <p>(201522008)</p><!-- 
             <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p> -->
           </div><!-- /.col-lg-4 -->
         </div><!-- /.row -->
         <div class="row mt-5">
           <div class="col-lg-4">
+            <img class="rounded-circle" src="image/3.png" alt="Generic placeholder image" width="140" height="140">
+            <h2>Ahmad Susanto</h2>
+            <p>NIM</p>
+            <p>(201522014)</p><!-- 
+            <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p> -->
+          </div><!-- /.col-lg-4 -->
+          <div class="col-lg-4">
             <img class="rounded-circle" src="image/4.png" alt="Generic placeholder image" width="140" height="140">
             <h2>Dimas Satria Utama</h2>
             <p>NIM</p>
-            <p>(201522087)</p><!-- 
+            <p>(201422066)</p><!-- 
             <p>Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod. Nullam id dolor id nibh ultricies vehicula ut id elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Praesent commodo cursus magna.</p> -->
           </div><!-- /.col-lg-4 -->
           <div class="col-lg-4">
-            <img class="rounded-circle" src="image/5.png" alt="Generic placeholder image" width="140" height="140">
+            <img class="rounded-circle" src="image/irwan.jpeg" alt="Generic placeholder image" width="140" height="140">
             <h2>Irwan</h2>
             <p>NIM</p>
             <p>(201522015)</p><!-- 
             <p>Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cras mattis consectetur purus sit amet fermentum. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh.</p> -->
           </div><!-- /.col-lg-4 -->
+        </div><!-- /.row -->
+        <div class="row mt-5">
           <div class="col-lg-4">
             <img class="rounded-circle" src="image/6.png" alt="Generic placeholder image" width="140" height="140">
-            <h2>Ivan Nulhakim</h2>
+            <h2>Ivan Luqman Nulhakim</h2>
             <p>NIM</p>
-            <p>(71150088)</p><!-- 
+            <p>(201522010)</p><!-- 
             <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p> -->
+          </div><!-- /.col-lg-4 -->
+          <div class="col-lg-4">
+            <img class="rounded-circle" src="image/7.png" alt="Generic placeholder image" width="140" height="140">
+            <h2>Rizal Maulana</h2>
+            <p>NIM</p>
+            <p>(201522001)</p><!-- 
+            <p>Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod. Nullam id dolor id nibh ultricies vehicula ut id elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Praesent commodo cursus magna.</p> -->
+          </div><!-- /.col-lg-4 -->
+          <div class="col-lg-4">
+            <img class="rounded-circle" src="image/8.png" alt="Generic placeholder image" width="140" height="140">
+            <h2>Susiana Wardani</h2>
+            <p>NIM</p>
+            <p>(201522021)</p><!-- 
+            <p>Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cras mattis consectetur purus sit amet fermentum. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh.</p> -->
           </div><!-- /.col-lg-4 -->
         </div><!-- /.row -->
         <div class="row mt-5">
           <div class="col-lg-4">
             <img class="rounded-circle" src="image/7.png" alt="Generic placeholder image" width="140" height="140">
-            <h2>Rizal Maulana</h2>
+            <h2>M. Faturohman</h2>
             <p>NIM</p>
-            <p>(71150009)</p><!-- 
+            <p>(201422057)</p><!-- 
             <p>Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod. Nullam id dolor id nibh ultricies vehicula ut id elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Praesent commodo cursus magna.</p> -->
           </div><!-- /.col-lg-4 -->
           <div class="col-lg-4">
-            <img class="rounded-circle" src="image/8.png" alt="Generic placeholder image" width="140" height="140">
-            <h2>XXX</h2>
-            <p>NIM</p>
-            <p>(71150055)</p><!-- 
-            <p>Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cras mattis consectetur purus sit amet fermentum. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh.</p> -->
-          </div><!-- /.col-lg-4 -->
-          <div class="col-lg-4">
             <img class="rounded-circle" src="image/10.png" alt="Generic placeholder image" width="140" height="140">
-            <h2>XXX</h2>
+            <h2>Syifa Prima</h2>
             <p>NIM</p>
-            <p>(71150088)</p><!-- 
+            <p>(201522016)</p><!-- 
             <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p> -->
           </div><!-- /.col-lg-4 -->
         </div><!-- /.row -->
-
 
 
     </main>
